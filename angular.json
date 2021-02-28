@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "mamxanh-fe"
+  "defaultProject": "mamxanh-fe",
+  "cli": {
+    "analytics": false
+  }
 }
